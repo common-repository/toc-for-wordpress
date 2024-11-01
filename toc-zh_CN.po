@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple-TOC\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-02 23:24+0830\n"
+"PO-Revision-Date: 2010-08-02 23:36+0830\n"
+"Last-Translator: Luke <kejinlu@gmail.com>\n"
+"Language-Team: Luke <kejinlu@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SearchPath-0: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc\n"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:84
+msgid "Your settings have been updated."
+msgstr "你的设置已经保存成功。"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:104
+msgid "TOC: Table Of Contents"
+msgstr "TOC: Table Of Contents"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:106
+msgid "Options"
+msgstr "选项"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:114
+msgid "Depth"
+msgstr "深度"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:122
+msgid "Title"
+msgstr "标题"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:130
+msgid "List Type"
+msgstr "列表类型"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:134
+msgid "ul (Unordered)"
+msgstr "ul (Unordered)"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:135
+msgid "ol (Ordered)"
+msgstr "ul (Unordered)"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:141
+msgid "Style"
+msgstr "样式"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:152
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:157
+msgid "Usage"
+msgstr "使用方法"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:159
+msgid "To insert a Table of Contents, simply place the following code into a post:"
+msgstr "为了插入一个目录，你只需要在你的文章中插入如下代码:"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:161
+msgid "[toc]"
+msgstr "[toc]"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:163
+msgid "You can override the various setting on a per-post basis using parameters:"
+msgstr "你可以在每一个文章中使用参数的方式覆盖设置的默认参数值。"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:165
+msgid "[toc depth=\"2\" listtype=\"ul\" title=\"Contents\"]"
+msgstr "[toc depth=\"2\" listtype=\"ul\" title=\"Contents\"]"
+
+#: /Users/Luke/Sites/wordpress/wp-content/plugins/simple-toc/simple-toc.php:172
+msgid "TOC"
+msgstr "目录"
+
